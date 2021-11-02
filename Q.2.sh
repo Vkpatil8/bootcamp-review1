@@ -21,4 +21,5 @@ do
     			echo "${a["$i"]} is not a prime number."
 		fi
 	done
+	echo "${a["$i"]} is a prime number."
 done
